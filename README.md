@@ -22,7 +22,9 @@ def display_board(board):
 test_board = ['#','A','R','A','R','A','R','A','R','A']
     
     
-#player's input
+    
+    
+# player's input
 
 def player_input():
     marker = ''
